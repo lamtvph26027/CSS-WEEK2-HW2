@@ -1,2 +1,1 @@
-# CSS-WEEK2-HW2
-css: a, nav, div, id, class, ....
+# week1-css-HW1
